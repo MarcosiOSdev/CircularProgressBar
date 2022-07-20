@@ -11,6 +11,7 @@
 		1D3541DF288883B60083CAE1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3541DE288883B60083CAE1 /* ContentView.swift */; };
 		1D3541E1288883B80083CAE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3541E0288883B80083CAE1 /* Assets.xcassets */; };
 		1D3541E4288883B80083CAE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3541E3288883B80083CAE1 /* Preview Assets.xcassets */; };
+		1D3541EB288883CD0083CAE1 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3541EA288883CD0083CAE1 /* CircularProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1D3541DE288883B60083CAE1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1D3541E0288883B80083CAE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D3541E3288883B80083CAE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1D3541EA288883CD0083CAE1 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				1D3541DE288883B60083CAE1 /* ContentView.swift */,
 				1D3541E0288883B80083CAE1 /* Assets.xcassets */,
 				1D3541E2288883B80083CAE1 /* Preview Content */,
+				1D3541EA288883CD0083CAE1 /* CircularProgressView.swift */,
 			);
 			path = CircularProgressBar;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D3541DF288883B60083CAE1 /* ContentView.swift in Sources */,
+				1D3541EB288883CD0083CAE1 /* CircularProgressView.swift in Sources */,
 				1D3541DD288883B60083CAE1 /* CircularProgressBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
