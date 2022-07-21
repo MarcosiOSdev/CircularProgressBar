@@ -12,6 +12,7 @@
 		1D3541E1288883B80083CAE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3541E0288883B80083CAE1 /* Assets.xcassets */; };
 		1D3541E4288883B80083CAE1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3541E3288883B80083CAE1 /* Preview Assets.xcassets */; };
 		1D3541EB288883CD0083CAE1 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3541EA288883CD0083CAE1 /* CircularProgressView.swift */; };
+		1D3541ED28888D4C0083CAE1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1D3541EC28888D4C0083CAE1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		1D3541E0288883B80083CAE1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D3541E3288883B80083CAE1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D3541EA288883CD0083CAE1 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		1D3541EC28888D4C0083CAE1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		1D3541DB288883B60083CAE1 /* CircularProgressBar */ = {
 			isa = PBXGroup;
 			children = (
+				1D3541EC28888D4C0083CAE1 /* README.md */,
 				1D3541DC288883B60083CAE1 /* CircularProgressBarApp.swift */,
 				1D3541DE288883B60083CAE1 /* ContentView.swift */,
 				1D3541E0288883B80083CAE1 /* Assets.xcassets */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D3541ED28888D4C0083CAE1 /* README.md in Resources */,
 				1D3541E4288883B80083CAE1 /* Preview Assets.xcassets in Resources */,
 				1D3541E1288883B80083CAE1 /* Assets.xcassets in Resources */,
 			);

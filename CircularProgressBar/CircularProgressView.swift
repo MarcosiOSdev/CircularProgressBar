@@ -9,8 +9,8 @@ import SwiftUI
 
 struct CircularProgressView: View {    
     let progress: Double
-    let lineCircularColor: Color = .pink.opacity(0.5)
-    let lineProgressIndicatorColor: Color = .pink
+    let lineCircularColor: Color = .blue.opacity(0.5)
+    let lineProgressIndicatorColor: Color = .blue
     let strokeStyle: StrokeStyle = StrokeStyle(lineWidth: 30, lineCap: .round)
     var middleView: AnyView? = nil
     
